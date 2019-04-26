@@ -1,0 +1,14 @@
+c:\users\gerald\documents\visual studio 2017\Projects\Payroll System\Payroll System\bin\Debug\Payroll System.exe.config
+c:\users\gerald\documents\visual studio 2017\Projects\Payroll System\Payroll System\bin\Debug\Payroll System.exe
+c:\users\gerald\documents\visual studio 2017\Projects\Payroll System\Payroll System\bin\Debug\Payroll System.pdb
+c:\users\gerald\documents\visual studio 2017\Projects\Payroll System\Payroll System\obj\Debug\Payroll_System.Form1.resources
+c:\users\gerald\documents\visual studio 2017\Projects\Payroll System\Payroll System\obj\Debug\Payroll_System.Properties.Resources.resources
+c:\users\gerald\documents\visual studio 2017\Projects\Payroll System\Payroll System\obj\Debug\Payroll System.csproj.GenerateResource.Cache
+c:\users\gerald\documents\visual studio 2017\Projects\Payroll System\Payroll System\obj\Debug\Payroll System.exe
+c:\users\gerald\documents\visual studio 2017\Projects\Payroll System\Payroll System\obj\Debug\Payroll System.pdb
+c:\users\gerald\documents\visual studio 2017\Projects\Payroll System\Payroll System\bin\Debug\PayrollDb.db
+c:\users\gerald\documents\visual studio 2017\Projects\Payroll System\Payroll System\bin\Debug\Dapper.dll
+c:\users\gerald\documents\visual studio 2017\Projects\Payroll System\Payroll System\bin\Debug\System.Data.SQLite.dll
+c:\users\gerald\documents\visual studio 2017\Projects\Payroll System\Payroll System\bin\Debug\System.Data.SQLite.EF6.dll
+c:\users\gerald\documents\visual studio 2017\Projects\Payroll System\Payroll System\bin\Debug\System.Data.SQLite.Linq.dll
+c:\users\gerald\documents\visual studio 2017\Projects\Payroll System\Payroll System\bin\Debug\Dapper.xml
